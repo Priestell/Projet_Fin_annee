@@ -1416,3 +1416,2074 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tripadvisor.com."
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679739518985	geckodriver	INFO	Listening on 127.0.0.1:58528
+1679739522036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileQ8On7W"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739522317	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739522320	Marionette	INFO	Listening on port 58537
+Read port: 58537
+WebDriver BiDi listening on ws://127.0.0.1:58529
+1679739522415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileQ8On7W\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58529/devtools/browser/a9610418-812b-4ed2-a426-7ec36c6e6a8b
+1679739526571	geckodriver	INFO	Listening on 127.0.0.1:58595
+1679739529609	mozrunner::runner	INFO	RunninA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679740176978	Marionette	INFO	Stopped listening on port 58537
+Dynamically enable window occlusion 1
+ "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilekcivIH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739529929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739529933	Marionette	INFO	Listening on port 58714
+Read port: 58714
+WebDriver BiDi listening on ws://127.0.0.1:58596
+1679739530030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilekcivIH\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58596/devtools/browser/95c1f0d7-19e5-471c-bedd-5844183ec7ed
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739537447	mozrunner::runner	INFO	Runninconsole.error: (new NotReadableError("Could not write chunk (size = 38241) to file C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilekcivIH\\extensions.json.tmp. The file may be corrupt.", (void 0)))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679740172200	Marionette	INFO	Stopped listening on port 58714
+Dynamically enable window occlusion 1
+ services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739537703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739537706	Marionette	INFO	Listening on port 58865
+WebDriver BiDi listening on ws://127.0.0.1:58828
+Read port: 58865
+1679739537907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileFIr6GR\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58828/devtools/browser/14024013-e63d-4b1f-a30a-e29f1b4858ac
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739544748	mozrunner::runner	INFO	Runninconsole.error: (new NotReadableError("Could not write chunk (size = 38241) to file C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileFIr6GR\\extensions.json.tmp. The file may be corrupt.", (void 0)))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679740167866	Marionette	INFO	Stopped listening on port 58865
+Dynamically enable window occlusion 1
+ services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739545009	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739545013	Marionette	INFO	Listening on port 58929
+WebDriver BiDi listening on ws://127.0.0.1:58909
+Read port: 58929
+1679739545198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileWv1JSb\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58909/devtools/browser/dad00376-7d11-48f0-84a9-547b8ca81749
+1679739548619	geckodriver	INFO	Listening on 127.0.0.1:58971
+1679739551629	mozrunner::runner	INFO	Runninconsole.error: (new NotReadableError("Could not write chunk (size = 38241) to file C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileWv1JSb\\extensions.json.tmp. The file may be corrupt.", (void 0)))
+Exiting due to channel error.
+leFsSXxv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739551900	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739551903	Marionette	INFO	Listening on port 58993
+WebDriver BiDi listening on ws://127.0.0.1:58972
+Read port: 58993
+1679739552080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileFsSXxv\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58972/devtools/browser/7e0560ea-9395-44b3-97dd-c0e26eba8663
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739558853	mozrunner::runner	INFO	RunninA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679740164732	Marionette	INFO	Stopped listening on port 58993
+Dynamically enable window occlusion 1
+ "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewjuYQP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739559152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739559157	Marionette	INFO	Listening on port 59057
+Read port: 59057
+WebDriver BiDi listening on ws://127.0.0.1:59033
+1679739559250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewjuYQP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59033/devtools/browser/8ac4635e-5632-42a5-be42-d39f1266b16c
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739565843	mozrunner::runner	INFO	RunninA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679740166335	Marionette	INFO	Stopped listening on port 59057
+Dynamically enable window occlusion 1
+ "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile6E3Am2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739566117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739566120	Marionette	INFO	Listening on port 59136
+Read port: 59136
+WebDriver BiDi listening on ws://127.0.0.1:59113
+1679739566235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile6E3Am2\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59113/devtools/browser/6f07e720-92a1-45e5-85a3-04792689c63d
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739572731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegy8FhT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739573035	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739573039	Marionette	INFO	Listening on port 59204
+Read port: 59204
+WebDriver BiDi listening on ws://127.0.0.1:59179
+1679739573170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegy8FhT\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59179/devtools/browser/e1d73132-d809-48b8-b1f4-a71a744b0cd4
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739580138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilenw9pPm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739580464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739580468	Marionette	INFO	Listening on port 59292
+Read port: 59292
+WebDriver BiDi listening on ws://127.0.0.1:59262
+1679739580615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilenw9pPm\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59262/devtools/browser/7f75ac91-4d76-4f67-b8f4-fae8abd51129
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739587670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilex0EmW0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739587991	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739587995	Marionette	INFO	Listening on port 59401
+Read port: 59401
+WebDriver BiDi listening on ws://127.0.0.1:59359
+1679739588118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilex0EmW0\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59359/devtools/browser/4f5937ee-2b78-45fc-993d-07b5af20e1c2
+1679739592143	geckodriver	INFO	Listening on 127.0.0.1:59443
+1679739595164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUBVlK4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739595469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739595473	Marionette	INFO	Listening on port 59464
+Read port: 59464
+WebDriver BiDi listening on ws://127.0.0.1:59444
+1679739595576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUBVlK4\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59444/devtools/browser/56e4658c-f844-4fe3-be32-3b08e0bc5c06
+1679739599189	geckodriver	INFO	Listening on 127.0.0.1:59508
+1679739602200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileC6jV7A"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739602484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739602487	Marionette	INFO	Listening on port 59527
+Read port: 59527
+WebDriver BiDi listening on ws://127.0.0.1:59509
+1679739602590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileC6jV7A\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59509/devtools/browser/d0ffa2f3-7828-4095-ac48-223eb3adbb31
+1679739607343	geckodriver	INFO	Listening on 127.0.0.1:59572
+1679739610364	mozrunner::runner	INFO	RunninA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile0PpdbF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739610657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739610661	Marionette	INFO	Listening on port 59591
+Read port: 59591
+WebDriver BiDi listening on ws://127.0.0.1:59573
+1679739610765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile0PpdbF\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59573/devtools/browser/296e673d-5be6-4ac8-b04e-a5493722481e
+1679739614642	geckodriver	INFO	Listening on 127.0.0.1:59633
+1679739617669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileZ5AykZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739618049	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739618055	Marionette	INFO	Listening on port 59660
+Read port: 59660
+WebDriver BiDi listening on ws://127.0.0.1:59634
+1679739618214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileZ5AykZ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59634/devtools/browser/e4b0a110-888a-41ea-96cf-e812b7e45908
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739625273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile9NW1vG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739625599	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739625603	Marionette	INFO	Listening on port 59726
+Read port: 59726
+WebDriver BiDi listening on ws://127.0.0.1:59707
+1679739625718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile9NW1vG\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59707/devtools/browser/148cb195-b475-4de0-9fc3-e2a55b1e0442
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739632634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileB8E0Gj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739632964	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739632969	Marionette	INFO	Listening on port 59789
+WebDriver BiDi listening on ws://127.0.0.1:59768
+Read port: 59789
+1679739633248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileB8E0Gj\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59768/devtools/browser/292499e3-4467-4d0f-adc7-1b8d1818526b
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739640068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilelc9vSY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739640401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739640405	Marionette	INFO	Listening on port 59850
+WebDriver BiDi listening on ws://127.0.0.1:59832
+Read port: 59850
+1679739640681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilelc9vSY\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59832/devtools/browser/55df0bcb-026b-4132-99b3-54012fa52fdc
+1679739644958	geckodriver	INFO	Listening on 127.0.0.1:59892
+1679739647989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile8EAJPB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739648347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739648352	Marionette	INFO	Listening on port 59918
+Read port: 59918
+WebDriver BiDi listening on ws://127.0.0.1:59893
+1679739648494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile8EAJPB\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59893/devtools/browser/93bb7fe7-f2db-4092-b368-b04daff5a532
+1679739652566	geckodriver	INFO	Listening on 127.0.0.1:59959
+1679739655610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileJoXYVf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739655924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739655929	Marionette	INFO	Listening on port 59979
+Read port: 59979
+WebDriver BiDi listening on ws://127.0.0.1:59960
+1679739656050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileJoXYVf\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59960/devtools/browser/7d5ade89-efd0-44a9-a01e-9d94602defc4
+1679739660349	geckodriver	INFO	Listening on 127.0.0.1:60021
+1679739663404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilepfNWSb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739663745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739663750	Marionette	INFO	Listening on port 60042
+WebDriver BiDi listening on ws://127.0.0.1:60022
+Read port: 60042
+1679739664017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilepfNWSb\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60022/devtools/browser/8163234a-dd0a-4a38-8113-ebb394a7022b
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739671270	mozrunner::runner	INFO	RunninA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileMfODVr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739671629	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739671634	Marionette	INFO	Listening on port 60104
+WebDriver BiDi listening on ws://127.0.0.1:60086
+Read port: 60104
+1679739671795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileMfODVr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60086/devtools/browser/0f5d2cba-379b-47d2-9f52-c87b2dc1a7d8
+1679739676323	geckodriver	INFO	Listening on 127.0.0.1:60145
+1679739679350	mozrunner::runner	INFO	RunninA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileRSdvwx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739679702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739679706	Marionette	INFO	Listening on port 60168
+WebDriver BiDi listening on ws://127.0.0.1:60146
+Read port: 60168
+1679739679956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileRSdvwx\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60146/devtools/browser/1ca3fc1d-6474-42d3-b3d6-8677b021b859
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739686979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileyV3gTw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739687340	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739687344	Marionette	INFO	Listening on port 60232
+WebDriver BiDi listening on ws://127.0.0.1:60211
+Read port: 60232
+1679739687581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileyV3gTw\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60211/devtools/browser/588ab970-5f80-455b-99dd-0222e969fafb
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739694532	mozrunner::runner	INFO	Runninconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ing-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilebcJz9F"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739694871	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739694877	Marionette	INFO	Listening on port 60298
+WebDriver BiDi listening on ws://127.0.0.1:60275
+Read port: 60298
+1679739695141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilebcJz9F\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60275/devtools/browser/f44208b8-91c1-4e51-b6c5-7cf604423584
+1679739698981	geckodriver	INFO	Listening on 127.0.0.1:60340
+1679739702040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileOmPeQR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739702399	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739702405	Marionette	INFO	Listening on port 60361
+Read port: 60361
+WebDriver BiDi listening on ws://127.0.0.1:60341
+1679739702563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileOmPeQR\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60341/devtools/browser/c08f72fe-c1c1-4a5a-bb74-86bdcf2f42e3
+1679739707203	geckodriver	INFO	Listening on 127.0.0.1:60409
+1679739710221	mozrunner::runner	INFO	Runninconsole.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: security-state/onecrl importChanges() IndexedDB:  importChanges() in security-state/onecrl The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.error: services.settings: 
+  Message: StorageError: Storage error: InvalidStateError: IndexedDB: security-state/intermediates importChanges() IndexedDB: collections, timestamps, records importChanges() in security-state/intermediates A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new StorageError("Storage error: QuotaExceededError: IndexedDB: security-state/onecrl importChanges() IndexedDB:  importChanges() in security-state/onecrl The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsClient.sys.mjs", 157))
+0.0.1:60474
+1679739718754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilemrKJuh\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60474/devtools/browser/fb0189cb-c2ac-4501-a1e5-2414c3514400
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739726561	mozrunner::runner	INFO	Runninconsole.error: RemoteSecuritySettings.jsm: 
+  certStorage.addCerts failed: 2147500037
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+1\\AppData\\Local\\Temp\\rust_mozprofileY4xyGX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739726904	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739726908	Marionette	INFO	Listening on port 60563
+WebDriver BiDi listening on ws://127.0.0.1:60541
+Read port: 60563
+1679739727174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileY4xyGX\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60541/devtools/browser/d2be76f1-5c1b-4c64-9612-99d42ac0413e
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739734533	mozrunner::runner	INFO	Runninconsole.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ing-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilepnN25y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739734899	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739734904	Marionette	INFO	Listening on port 60624
+Read port: 60624
+WebDriver BiDi listening on ws://127.0.0.1:60606
+1679739735040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilepnN25y\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60606/devtools/browser/18f94e16-56d0-408a-8924-c85d63a39924
+1679739739519	geckodriver	INFO	Listening on 127.0.0.1:60666
+1679739742539	mozrunner::runner	INFO	Runninconsole.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 39))
+console.error: services.settings: 
+  Message: StorageError: Storage error: AbortError: IndexedDB: main/password-rules importChanges() IndexedDB:  importChanges() in main/password-rules A request was aborted, for example through a call to IDBTransaction.abort.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: (new AbortError("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+e
+1679739747589	geckodriver	INFO	Listening on 127.0.0.1:60732
+1679739750618	mozrunner::runner	INFO	Runninconsole.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: security-state/intermediates importChanges() IndexedDB:  importChanges() in security-state/intermediates The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new StorageError("Storage error: QuotaExceededError: IndexedDB: security-state/intermediates importChanges() IndexedDB:  importChanges() in security-state/intermediates The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsClient.sys.mjs", 157))
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+rofilesxxGMu\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60733/devtools/browser/62a3f34a-16b3-48b1-bf85-5df94a17bdab
+1679739755773	geckodriver	INFO	Listening on 127.0.0.1:60793
+1679739758791	mozrunner::runner	INFO	Runninconsole.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+g on ws://127.0.0.1:60794
+1679739759222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileU93ltp\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60794/devtools/browser/70bf1ff4-6c85-49bc-a836-e9447caed270
+1679739764088	geckodriver	INFO	Listening on 127.0.0.1:60858
+1679739767117	mozrunner::runner	INFO	Runninconsole.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+g on ws://127.0.0.1:60859
+1679739767640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilelghi4Q\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60859/devtools/browser/9bad4b71-a78e-46d3-ab51-bf6ca52c90c5
+1679739772265	geckodriver	INFO	Listening on 127.0.0.1:60923
+1679739775285	mozrunner::runner	INFO	Runninconsole.error: (new AbortError("IndexedDB: security-state/intermediates list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: services.settings: 
+  Message: StorageError: Storage error: AbortError: IndexedDB: security-state/intermediates importChanges() IndexedDB:  importChanges() in security-state/intermediates A request was aborted, for example through a call to IDBTransaction.abort.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new StorageError("Storage error: AbortError: IndexedDB: security-state/intermediates importChanges() IndexedDB:  importChanges() in security-state/intermediates A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/RemoteSettingsClient.sys.mjs", 157))
+_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60924/devtools/browser/d2b960af-c4f6-4f4e-9847-ee5825802de5
+1679739780695	geckodriver	INFO	Listening on 127.0.0.1:60986
+1679739784018	mozrunner::runner	INFO	Runninconsole.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/gfx getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+g on ws://127.0.0.1:60987
+1679739784546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileACntV1\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60987/devtools/browser/5060a366-b336-46d2-8daf-662a1401f63e
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739792114	mozrunner::runner	INFO	Runninconsole.error: (new AbortError("IndexedDB: main/cookie-banner-rules-list list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: services.settings: 
+  Message: StorageError: Storage error: AbortError: IndexedDB: main/cookie-banner-rules-list importChanges() IndexedDB:  importChanges() in main/cookie-banner-rules-list A request was aborted, for example through a call to IDBTransaction.abort.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new AbortError("IndexedDB: main/normandy-recipes getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+a\\Local\\Temp\\rust_mozprofileJOJWqb\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61048/devtools/browser/3a57d8ef-b789-452b-82ab-5eb25e47b898
+1679739797089	geckodriver	INFO	Listening on 127.0.0.1:61110
+1679739800128	mozrunner::runner	INFO	RunninExiting due to channel error.
+Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile1C8368"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739800543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739800549	Marionette	INFO	Listening on port 61133
+Read port: 61133
+WebDriver BiDi listening on ws://127.0.0.1:61111
+1679739800696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile1C8368\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61111/devtools/browser/03f9f3fc-cf32-4cae-9027-61ad1bf6fa8a
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739808361	mozrunner::runner	INFO	RunninExiting due to channel error.
+Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileWCNBxh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739808723	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739808727	Marionette	INFO	Listening on port 61202
+Read port: 61202
+WebDriver BiDi listening on ws://127.0.0.1:61176
+1679739808880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileWCNBxh\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61176/devtools/browser/924f74ef-c728-4c6e-a176-7a590ffe26bd
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739816656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilez2Cs8O"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739816961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739816966	Marionette	INFO	Listening on port 61268
+Read port: 61268
+WebDriver BiDi listening on ws://127.0.0.1:61247
+1679739817073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilez2Cs8O\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61247/devtools/browser/7119f8b5-593e-48a2-8aad-4daa0d1edd9b
+1679739821385	geckodriver	INFO	Listening on 127.0.0.1:61310
+1679739824443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegIXl7z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739824842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739824848	Marionette	INFO	Listening on port 61337
+Read port: 61337
+WebDriver BiDi listening on ws://127.0.0.1:61311
+1679739824975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegIXl7z\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61311/devtools/browser/0d8fc5cc-0f30-4140-bce8-8d3d8f59597c
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739833251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCdO8LQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739833643	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739833648	Marionette	INFO	Listening on port 61411
+Read port: 61411
+WebDriver BiDi listening on ws://127.0.0.1:61391
+1679739833795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCdO8LQ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61391/devtools/browser/77279876-0aef-49e6-86e0-62478e8ee86a
+1679739838717	geckodriver	INFO	Listening on 127.0.0.1:61456
+1679739842183	mozrunner::runner	INFO	RunninExiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ess" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegy9mqm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739842577	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739842582	Marionette	INFO	Listening on port 61478
+Read port: 61478
+WebDriver BiDi listening on ws://127.0.0.1:61457
+1679739842721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegy9mqm\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61457/devtools/browser/6bc6cc0c-86f7-450f-80cd-593b9bc865cf
+1679739847300	geckodriver	INFO	Listening on 127.0.0.1:61522
+1679739850341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileIeSKzQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739850770	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739850775	Marionette	INFO	Listening on port 61545
+Read port: 61545
+WebDriver BiDi listening on ws://127.0.0.1:61523
+1679739850922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileIeSKzQ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61523/devtools/browser/94441563-7153-495c-b545-0976f8eefa29
+1679739855723	geckodriver	INFO	Listening on 127.0.0.1:61588
+1679739858752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilejzkcGh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739859222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739859227	Marionette	INFO	Listening on port 61610
+Read port: 61610
+WebDriver BiDi listening on ws://127.0.0.1:61589
+1679739859401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilejzkcGh\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61589/devtools/browser/daa4390a-1d02-40b5-8cd4-71316c7d100e
+1679739864391	geckodriver	INFO	Listening on 127.0.0.1:61652
+1679739867396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileEI6gwW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739867788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739867794	Marionette	INFO	Listening on port 61673
+Read port: 61673
+WebDriver BiDi listening on ws://127.0.0.1:61653
+1679739867928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileEI6gwW\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61653/devtools/browser/d26589c0-ad93-4610-8e56-61907a86310c
+1679739872380	geckodriver	INFO	Listening on 127.0.0.1:61715
+1679739875727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegbmp54"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739876157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739876164	Marionette	INFO	Listening on port 61741
+Read port: 61741
+WebDriver BiDi listening on ws://127.0.0.1:61716
+1679739876304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilegbmp54\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61716/devtools/browser/35dec215-0666-4653-a806-6c99aebaa7aa
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739884533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile2yu8HW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739884958	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739884963	Marionette	INFO	Listening on port 61806
+Read port: 61806
+WebDriver BiDi listening on ws://127.0.0.1:61786
+1679739885098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile2yu8HW\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61786/devtools/browser/05c05c93-8122-45b4-bbc4-e1df92ac11f1
+1679739889700	geckodriver	INFO	Listening on 127.0.0.1:61858
+1679739892719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4bAkdY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739893100	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739893105	Marionette	INFO	Listening on port 61879
+Read port: 61879
+WebDriver BiDi listening on ws://127.0.0.1:61859
+1679739893244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4bAkdY\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61859/devtools/browser/1a605e71-5831-4f18-a791-c3fe0ad1c14b
+1679739898260	geckodriver	INFO	Listening on 127.0.0.1:61925
+1679739901280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileGtl95a"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739901682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739901688	Marionette	INFO	Listening on port 61944
+Read port: 61944
+WebDriver BiDi listening on ws://127.0.0.1:61926
+1679739901815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileGtl95a\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61926/devtools/browser/81ea05ec-bba1-46be-b085-278af17d9962
+1679739907253	geckodriver	INFO	Listening on 127.0.0.1:61990
+1679739910633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileJLSA8T"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739911139	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739911147	Marionette	INFO	Listening on port 62011
+Read port: 62011
+WebDriver BiDi listening on ws://127.0.0.1:61991
+1679739911306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileJLSA8T\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61991/devtools/browser/322d233e-d8e1-4533-8279-7cd5a438efd5
+1679739916612	geckodriver	INFO	Listening on 127.0.0.1:62056
+1679739919835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile29SbsI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739920260	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739920266	Marionette	INFO	Listening on port 62080
+Read port: 62080
+WebDriver BiDi listening on ws://127.0.0.1:62057
+1679739920401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile29SbsI\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62057/devtools/browser/6e88cbb2-23cc-48cf-a49a-348b21b67285
+1679739925170	geckodriver	INFO	Listening on 127.0.0.1:62122
+1679739928557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileny9zOg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739928976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739928981	Marionette	INFO	Listening on port 62147
+Read port: 62147
+WebDriver BiDi listening on ws://127.0.0.1:62123
+1679739929115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileny9zOg\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62123/devtools/browser/b878b4bf-119a-4ff2-8133-9d6c3354e68d
+1679739934386	geckodriver	INFO	Listening on 127.0.0.1:62204
+1679739937809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileO4KP8b"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739938678	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739938683	Marionette	INFO	Listening on port 62231
+Read port: 62231
+WebDriver BiDi listening on ws://127.0.0.1:62205
+1679739938814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileO4KP8b\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62205/devtools/browser/a9848bf5-3619-4965-b0a8-68c13752db33
+1679739943268	geckodriver	INFO	Listening on 127.0.0.1:62278
+1679739946281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5wugTB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739946626	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739946630	Marionette	INFO	Listening on port 62302
+WebDriver BiDi listening on ws://127.0.0.1:62279
+Read port: 62302
+1679739946865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5wugTB\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62279/devtools/browser/5649d089-4dd7-4c9d-aab3-b0e882e97e59
+1679739952434	geckodriver	INFO	Listening on 127.0.0.1:62351
+1679739955677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile8Unk62"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679739955989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679739955993	Marionette	INFO	Listening on port 62387
+Read port: 62387
+WebDriver BiDi listening on ws://127.0.0.1:62352
+1679739956104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile8Unk62\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62352/devtools/browser/422a9031-baa4-481f-a9ba-c16c0c8c2b18
+console.warn: LoginRecipes: "Falling back to a synchronous m1679739962974	mozrunner::runner	INFO	Runninconsole.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 10566) to file C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile8Unk62\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+console.error: (new AbortError("IndexedDB: main/public-suffix-list getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new NotReadableError("Could not write chunk (size = 1521) to file C:\\ProgramData\\Mozilla-1de4eec8-1241-4177-a864-e594e8d1fb38\\profile_count_CA9422711AE1A81C.json. The file may be corrupt.", (void 0)))
+JavaScript error: , line 0: uncaught exception: Object
+RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiled0kbTX\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62449/devtools/browser/1d96d889-de9a-4d64-827d-13bd0fff7a0e
+console.error: (new NotReadableError("Could not write chunk (size = 939) to file C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiled0kbTX\\containers.json.tmp. The file may be corrupt.", (void 0)))
+1679739967215	geckodriver	INFO	Listening on 127.0.0.1:62520
+1679739970243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileaUmFs4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_console.error: (new SyntaxError("JSON.parse: unexpected end of data at line 1 column 1 of the JSON data", "resource:///modules/BrowserUsageTelemetry.jsm", 1174))
+JavaScript error: , line 0: uncaught exception: Object
+iDi listening on ws://127.0.0.1:62521
+1679739971072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileaUmFs4\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62521/devtools/browser/96a917cc-78cd-40f3-bd73-3434d89b51c1
+console.error: "Could not write session state file " (new NotReadableError("Could not write chunk (size = 9509) to file C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileaUmFs4\\sessionstore-backups\\recovery.jsonlz4.tmp. The file may be corrupt.", (void 0))) ""
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tripadvisor.com."
+console.error: (new NotReadableError("Could not write chunk (size = 112908) to file C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileaUmFs4\\startupCache\\webext.sc.lz4.tmp. The file may be corrupt.", (void 0)))
+1679740310498	geckodriver	INFO	Listening on 127.0.0.1:63311
+1679740313545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile0Thk20"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740313809	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740313812	Marionette	INFO	Listening on port 63320
+WebDriver BiDi listening on ws://127.0.0.1:63312
+Read port: 63320
+1679740314007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile0Thk20\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63312/devtools/browser/0538917b-fe0b-438a-920e-81d01df1d1d5
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740319914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileqocYv8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740320143	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740320146	Marionette	INFO	Listening on port 63384
+WebDriver BiDi listening on ws://127.0.0.1:63356
+Read port: 63384
+1679740320342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileqocYv8\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63356/devtools/browser/8f2690e1-61e6-4073-a8b4-d6501c3f3e55
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740326230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile53NMHb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740326466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740326469	Marionette	INFO	Listening on port 63444
+WebDriver BiDi listening on ws://127.0.0.1:63424
+Read port: 63444
+1679740326672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile53NMHb\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63424/devtools/browser/a348069e-6bac-4eaf-bf84-60bf29d814d8
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740332846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5Mt2xS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740333080	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740333084	Marionette	INFO	Listening on port 63505
+WebDriver BiDi listening on ws://127.0.0.1:63488
+Read port: 63505
+1679740333291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5Mt2xS\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63488/devtools/browser/6030b399-6ae6-4cdc-ad8b-757aa5ab15ac
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740339270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileP51DZ8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740339510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740339514	Marionette	INFO	Listening on port 63570
+WebDriver BiDi listening on ws://127.0.0.1:63552
+Read port: 63570
+1679740339716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileP51DZ8\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63552/devtools/browser/383f8696-0eee-48f8-8e6a-a150cacd0ed6
+1679740342957	geckodriver	INFO	Listening on 127.0.0.1:63611
+1679740345991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileQsykWP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740346227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740346231	Marionette	INFO	Listening on port 63634
+WebDriver BiDi listening on ws://127.0.0.1:63612
+Read port: 63634
+1679740346436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileQsykWP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63612/devtools/browser/e872ef10-55fe-4123-9dfd-5623e7aa75c4
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740352374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile77SLXM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740352616	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740352619	Marionette	INFO	Listening on port 63696
+WebDriver BiDi listening on ws://127.0.0.1:63675
+Read port: 63696
+1679740352823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile77SLXM\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63675/devtools/browser/7d0f6b51-f407-4560-a6d9-54be277d9eeb
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740359046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile1kpnPW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740359302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740359306	Marionette	INFO	Listening on port 63756
+WebDriver BiDi listening on ws://127.0.0.1:63738
+Read port: 63756
+1679740359515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile1kpnPW\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63738/devtools/browser/45237aae-5fab-4500-9821-193a5a98cc78
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740365689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileKTVP71"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740365943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740365947	Marionette	INFO	Listening on port 63820
+WebDriver BiDi listening on ws://127.0.0.1:63798
+Read port: 63820
+1679740366157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileKTVP71\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63798/devtools/browser/1d80963d-f80e-4bb1-8814-a0da78677811
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740372250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCHNhK9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740372491	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740372494	Marionette	INFO	Listening on port 63890
+WebDriver BiDi listening on ws://127.0.0.1:63862
+Read port: 63890
+1679740372697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCHNhK9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63862/devtools/browser/d8397a0a-e6c6-4e50-bfdb-a27f8ad883d7
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740379125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileKIyG4b"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740379373	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740379377	Marionette	INFO	Listening on port 63951
+WebDriver BiDi listening on ws://127.0.0.1:63933
+Read port: 63951
+1679740379585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileKIyG4b\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63933/devtools/browser/3be40373-626f-418a-804c-cb65e20bf7cc
+1679740383035	geckodriver	INFO	Listening on 127.0.0.1:63993
+1679740386066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4eLy3o"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740386307	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740386310	Marionette	INFO	Listening on port 64013
+WebDriver BiDi listening on ws://127.0.0.1:63994
+Read port: 64013
+1679740386525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4eLy3o\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63994/devtools/browser/121bcc5c-6237-4ef8-98eb-bdc4f5bc6011
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740392809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCsd3jg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740393069	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740393073	Marionette	INFO	Listening on port 64074
+WebDriver BiDi listening on ws://127.0.0.1:64056
+Read port: 64074
+1679740393259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCsd3jg\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64056/devtools/browser/32a56773-57f2-4751-94d1-f1764e6891d7
+1679740396415	geckodriver	INFO	Listening on 127.0.0.1:64113
+1679740399456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilexA2mf6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740399774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740399777	Marionette	INFO	Listening on port 64139
+Read port: 64139
+WebDriver BiDi listening on ws://127.0.0.1:64114
+1679740399875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilexA2mf6\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64114/devtools/browser/b59fcb91-a0e1-433e-bc9c-ba3e29854feb
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740406575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilet6j1m9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740406836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740406839	Marionette	INFO	Listening on port 64202
+WebDriver BiDi listening on ws://127.0.0.1:64182
+Read port: 64202
+1679740407039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilet6j1m9\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64182/devtools/browser/27c2b332-65b0-4323-a415-e0291eb4cbc3
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740413733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilei5shS7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740413994	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740413997	Marionette	INFO	Listening on port 64265
+WebDriver BiDi listening on ws://127.0.0.1:64244
+Read port: 64265
+1679740414169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilei5shS7\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64244/devtools/browser/4a907e57-85d7-49d7-8ebd-4a397dbf8ead
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740420495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileY5l9y0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740420742	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740420746	Marionette	INFO	Listening on port 64325
+WebDriver BiDi listening on ws://127.0.0.1:64307
+Read port: 64325
+1679740420959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileY5l9y0\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64307/devtools/browser/c9364d57-4ccb-4205-a4ec-c0b27fc3b572
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740427200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileSwXBp7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740427455	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740427458	Marionette	INFO	Listening on port 64393
+WebDriver BiDi listening on ws://127.0.0.1:64368
+Read port: 64393
+1679740427638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileSwXBp7\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64368/devtools/browser/1bfe5238-d9df-4e98-aecf-e1cac93272fd
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740433858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileMQWZKB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740434122	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740434126	Marionette	INFO	Listening on port 64455
+Read port: 64455
+WebDriver BiDi listening on ws://127.0.0.1:64437
+1679740434238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileMQWZKB\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64437/devtools/browser/cccd729e-df1f-4d65-80d5-f1915971ff23
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740441056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile2EIsbu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740441301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740441304	Marionette	INFO	Listening on port 64521
+WebDriver BiDi listening on ws://127.0.0.1:64498
+Read port: 64521
+1679740441475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile2EIsbu\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64498/devtools/browser/72c9bcac-1fa6-46d0-a346-7d7bbd2a7806
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740447957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewpjGt1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740448227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740448232	Marionette	INFO	Listening on port 64585
+Read port: 64585
+WebDriver BiDi listening on ws://127.0.0.1:64564
+1679740448354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewpjGt1\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64564/devtools/browser/91827101-ee40-43c6-ba6d-a257284e7cd9
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740455012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiled4T7SS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740455276	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740455280	Marionette	INFO	Listening on port 64648
+WebDriver BiDi listening on ws://127.0.0.1:64627
+Read port: 64648
+1679740455456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiled4T7SS\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64627/devtools/browser/7c9010ac-6fa3-4b95-9b9e-448100fb5862
+1679740459134	geckodriver	INFO	Listening on 127.0.0.1:64689
+1679740462164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile2mYdAQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740462441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740462444	Marionette	INFO	Listening on port 64708
+Read port: 64708
+WebDriver BiDi listening on ws://127.0.0.1:64690
+1679740462548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile2mYdAQ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64690/devtools/browser/284b722b-d693-44cc-9918-4f79dfc99375
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740469511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilem7pDsE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740469774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740469777	Marionette	INFO	Listening on port 64771
+Read port: 64771
+WebDriver BiDi listening on ws://127.0.0.1:64751
+1679740469893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilem7pDsE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64751/devtools/browser/e969e2e9-0873-4dc4-a220-495d2b1fcf10
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740476330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileuPeQDx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740476603	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740476607	Marionette	INFO	Listening on port 64831
+Read port: 64831
+WebDriver BiDi listening on ws://127.0.0.1:64814
+1679740476716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileuPeQDx\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64814/devtools/browser/b39fa14e-36a5-4e31-8a15-a5de118c63f5
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740483487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileh6lm4i"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740483810	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740483814	Marionette	INFO	Listening on port 64892
+Read port: 64892
+WebDriver BiDi listening on ws://127.0.0.1:64874
+1679740483919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileh6lm4i\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64874/devtools/browser/e542be5d-a445-49c0-b798-4a8ffdf365c1
+1679740487907	geckodriver	INFO	Listening on 127.0.0.1:64942
+1679740490937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileolKeGF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740491196	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740491200	Marionette	INFO	Listening on port 64964
+WebDriver BiDi listening on ws://127.0.0.1:64943
+Read port: 64964
+1679740491385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileolKeGF\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64943/devtools/browser/5bfb13a0-4567-459b-a51b-6b49a67000a4
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740498367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileVXzCmG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740498623	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740498627	Marionette	INFO	Listening on port 65025
+WebDriver BiDi listening on ws://127.0.0.1:65007
+Read port: 65025
+1679740498817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileVXzCmG\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65007/devtools/browser/a176561e-3b69-48a0-872d-aa9c019f21b9
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740505857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileuKljAY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740506143	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740506147	Marionette	INFO	Listening on port 65086
+Read port: 65086
+WebDriver BiDi listening on ws://127.0.0.1:65069
+1679740506249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileuKljAY\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65069/devtools/browser/6a10151f-ca40-45cb-a3d3-569be9fbdce0
+1679740510059	geckodriver	INFO	Listening on 127.0.0.1:65128
+1679740513082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileNWliKD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740513372	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740513375	Marionette	INFO	Listening on port 65146
+Read port: 65146
+WebDriver BiDi listening on ws://127.0.0.1:65129
+1679740513475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileNWliKD\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65129/devtools/browser/d8d610da-a6d0-49c8-8442-995989c91e5f
+1679740517132	geckodriver	INFO	Listening on 127.0.0.1:65188
+1679740520170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUZ4WiG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740520456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740520459	Marionette	INFO	Listening on port 65211
+Read port: 65211
+WebDriver BiDi listening on ws://127.0.0.1:65189
+1679740520558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUZ4WiG\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65189/devtools/browser/1be9278b-dd60-43b9-bad1-198115054b79
+console.warn: LoginRecipes: "Falling back to a synchronous m1679740527112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4awJZG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679740527419	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679740527423	Marionette	INFO	Listening on port 65271
+Read port: 65271
+WebDriver BiDi listening on ws://127.0.0.1:65253
+1679740527539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4awJZG\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65253/devtools/browser/cf18ece4-682e-490e-a3cf-c671fbd50cfb
+1679740532394	geckodriver	INFO	Listening on 127.0.0.1:65314
+essage for: https://www.tripadvisor.com."
+1679741006255	geckodriver	INFO	Listening on 127.0.0.1:55335
+1679741009316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55336" ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileOENiPA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741009594	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741009597	Marionette	INFO	Listening on port 55345
+Read port: 55345
+WebDriver BiDi listening on ws://127.0.0.1:55336
+1679741009813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1679741023934	geckodriver	INFO	Listening on 127.0.0.1:55360
+1679741026984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile1hAqST"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741027237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741027240	Marionette	INFO	Listening on port 55377
+WebDriver BiDi listening on ws://127.0.0.1:55361
+Read port: 55377
+1679741027434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile1hAqST\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55361/devtools/browser/a3ea2581-8fa7-4e0f-a3ad-de72d37e5209
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741034467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilehZSqhK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741034700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741034703	Marionette	INFO	Listening on port 55442
+WebDriver BiDi listening on ws://127.0.0.1:55421
+Read port: 55442
+1679741034896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilehZSqhK\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55421/devtools/browser/a2129ab4-082b-467f-bcef-650697b70660
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741040676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile9UefZO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741040905	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741040908	Marionette	INFO	Listening on port 55503
+WebDriver BiDi listening on ws://127.0.0.1:55483
+Read port: 55503
+1679741041102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile9UefZO\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55483/devtools/browser/19857aac-c3d7-4d02-a803-4a15154bc8ee
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741047496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilecFvREi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741047725	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741047729	Marionette	INFO	Listening on port 55563
+WebDriver BiDi listening on ws://127.0.0.1:55546
+Read port: 55563
+1679741047927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilecFvREi\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55546/devtools/browser/2ab89fb4-61d4-4526-854a-2d0fbe18eac4
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741053703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilePdSspL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741053944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741053947	Marionette	INFO	Listening on port 55626
+WebDriver BiDi listening on ws://127.0.0.1:55604
+Read port: 55626
+1679741054139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilePdSspL\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55604/devtools/browser/d132d9d6-2308-443e-8f4a-69bacd3735b7
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741059937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileClBqZw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741060169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741060173	Marionette	INFO	Listening on port 55690
+WebDriver BiDi listening on ws://127.0.0.1:55665
+Read port: 55690
+1679741060367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileClBqZw\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55665/devtools/browser/a3d1b146-4bff-4d7b-835e-231ada239b67
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741066205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileZqrHqF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741066525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741066529	Marionette	INFO	Listening on port 55753
+Read port: 55753
+WebDriver BiDi listening on ws://127.0.0.1:55733
+1679741066630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileZqrHqF\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55733/devtools/browser/34171679-a518-4eeb-aed0-ea070df857fc
+1679741070420	geckodriver	INFO	Listening on 127.0.0.1:55796
+1679741073451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5qRvfM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741073719	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741073722	Marionette	INFO	Listening on port 55815
+Read port: 55815
+WebDriver BiDi listening on ws://127.0.0.1:55797
+1679741073825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5qRvfM\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55797/devtools/browser/b081eb00-04fe-4f16-8751-087314707382
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741080303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCHgQNU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741080558	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741080561	Marionette	INFO	Listening on port 55879
+WebDriver BiDi listening on ws://127.0.0.1:55857
+Read port: 55879
+1679741080729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileCHgQNU\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55857/devtools/browser/41366970-2a4f-4060-ad82-e8d2f6d4c1f3
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741086918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiles1md7Y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741087192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741087195	Marionette	INFO	Listening on port 55951
+Read port: 55951
+WebDriver BiDi listening on ws://127.0.0.1:55921
+1679741087321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiles1md7Y\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55921/devtools/browser/c2bbeea9-62d6-4a90-86e4-c2ae00787017
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741093626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileysGUnT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741093866	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741093870	Marionette	INFO	Listening on port 56013
+WebDriver BiDi listening on ws://127.0.0.1:55995
+Read port: 56013
+1679741094068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileysGUnT\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55995/devtools/browser/248ab51f-58fd-480c-bb99-931b7df9bdd7
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741102160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileaIk2Ov"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741102423	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741102426	Marionette	INFO	Listening on port 56091
+WebDriver BiDi listening on ws://127.0.0.1:56062
+Read port: 56091
+1679741102596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileaIk2Ov\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56062/devtools/browser/b24350a3-fbb7-44da-9eb2-b84dbae88652
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741109091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4289Pa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741109333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741109336	Marionette	INFO	Listening on port 56168
+WebDriver BiDi listening on ws://127.0.0.1:56150
+Read port: 56168
+1679741109542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile4289Pa\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56150/devtools/browser/286b6052-11fb-4940-9192-a7fd9cb369a5
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741115683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileE9o52Y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741115922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741115925	Marionette	INFO	Listening on port 56232
+WebDriver BiDi listening on ws://127.0.0.1:56211
+Read port: 56232
+1679741116129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileE9o52Y\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56211/devtools/browser/a4a4d55f-63e0-431f-9899-39a4000c418e
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741122734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiles5WPdu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741122984	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741122987	Marionette	INFO	Listening on port 56319
+WebDriver BiDi listening on ws://127.0.0.1:56300
+Read port: 56319
+1679741123203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiles5WPdu\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56300/devtools/browser/3f9f8df4-f641-4368-84bb-ef4e50cc8703
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741129300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileEUbFiM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741129540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741129543	Marionette	INFO	Listening on port 56397
+WebDriver BiDi listening on ws://127.0.0.1:56367
+Read port: 56397
+1679741129749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileEUbFiM\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56367/devtools/browser/e8f9a81a-8731-4693-b57a-3402b4182f05
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741136032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileeZax04"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741136327	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741136330	Marionette	INFO	Listening on port 56461
+Read port: 56461
+WebDriver BiDi listening on ws://127.0.0.1:56439
+1679741136437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileeZax04\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56439/devtools/browser/3952483b-50e3-4a16-94d3-98f2077d70b8
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741143316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileLowwQP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741143602	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741143606	Marionette	INFO	Listening on port 56523
+Read port: 56523
+WebDriver BiDi listening on ws://127.0.0.1:56504
+1679741143711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileLowwQP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56504/devtools/browser/86d6d603-df25-4039-9108-1263266b3efc
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741150134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileMWJxZ4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741150424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741150429	Marionette	INFO	Listening on port 56597
+Read port: 56597
+WebDriver BiDi listening on ws://127.0.0.1:56566
+1679741150542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileMWJxZ4\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56566/devtools/browser/f9b5ccc6-9e52-4aa4-89be-bfeb0298d423
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741158157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileSkhetq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741158448	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741158451	Marionette	INFO	Listening on port 56670
+Read port: 56670
+WebDriver BiDi listening on ws://127.0.0.1:56646
+1679741158547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileSkhetq\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56646/devtools/browser/26384491-0f21-4044-8b99-3c32de3bcdbb
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741165149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileZKxbRk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741165426	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741165432	Marionette	INFO	Listening on port 56737
+Read port: 56737
+WebDriver BiDi listening on ws://127.0.0.1:56714
+1679741165542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileZKxbRk\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56714/devtools/browser/71c694c4-d17c-4168-a862-79c07a473d2c
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741172364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilek27bUg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741172635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741172640	Marionette	INFO	Listening on port 56801
+Read port: 56801
+WebDriver BiDi listening on ws://127.0.0.1:56779
+1679741172753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilek27bUg\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56779/devtools/browser/5e482b33-d20e-408c-9b84-68e301615aad
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741179644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewye5yJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741179982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741179986	Marionette	INFO	Listening on port 56870
+WebDriver BiDi listening on ws://127.0.0.1:56844
+Read port: 56870
+1679741180238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewye5yJ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56844/devtools/browser/688a8048-e4fe-40ca-aae1-82ca962fb1a7
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741187198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUzWK7c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741187539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741187544	Marionette	INFO	Listening on port 56943
+WebDriver BiDi listening on ws://127.0.0.1:56913
+Read port: 56943
+1679741187777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUzWK7c\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56913/devtools/browser/ea0b6438-0341-428d-9dcd-abbb2e0bb95e
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741195036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiletHignk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741195366	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741195370	Marionette	INFO	Listening on port 57005
+WebDriver BiDi listening on ws://127.0.0.1:56986
+Read port: 57005
+1679741195622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiletHignk\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56986/devtools/browser/77fec390-7797-4e3b-9af2-18ccbe416a6d
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741203201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileS4nA06"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741203536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741203542	Marionette	INFO	Listening on port 57066
+WebDriver BiDi listening on ws://127.0.0.1:57048
+Read port: 57066
+1679741203790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileS4nA06\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57048/devtools/browser/0356410c-ed01-46c8-997c-a807978389f6
+1679741207829	geckodriver	INFO	Listening on 127.0.0.1:57117
+1679741210871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileOqX2wM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741211161	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741211165	Marionette	INFO	Listening on port 57152
+Read port: 57152
+WebDriver BiDi listening on ws://127.0.0.1:57118
+1679741211267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileOqX2wM\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57118/devtools/browser/e0f3d88c-06b4-4312-b59d-9c0ef840ff5b
+1679741215502	geckodriver	INFO	Listening on 127.0.0.1:57196
+1679741218524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5QjDMO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741218814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741218818	Marionette	INFO	Listening on port 57216
+Read port: 57216
+WebDriver BiDi listening on ws://127.0.0.1:57197
+1679741218919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5QjDMO\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57197/devtools/browser/bf1369af-f5ae-43ef-87a4-9bf63f055b8c
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741226375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileAYqTEw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741226837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741226857	Marionette	INFO	Listening on port 57448
+Read port: 57448
+WebDriver BiDi listening on ws://127.0.0.1:57301
+1679741227069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileAYqTEw\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57301/devtools/browser/c3cdfceb-e716-4f7c-ba01-d2a657816db7
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741235519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewrFPiM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741235837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741235841	Marionette	INFO	Listening on port 57698
+Read port: 57698
+WebDriver BiDi listening on ws://127.0.0.1:57614
+1679741235946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewrFPiM\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57614/devtools/browser/41604b42-7aff-4a69-903a-c67b7ea7f9f4
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741242899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileGBWHtX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741243182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741243186	Marionette	INFO	Listening on port 57770
+Read port: 57770
+WebDriver BiDi listening on ws://127.0.0.1:57751
+1679741243294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileGBWHtX\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57751/devtools/browser/d3c6fffd-018b-443f-b077-8a233a33d1b5
+1679741247073	geckodriver	INFO	Listening on 127.0.0.1:57812
+1679741250113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilecBTTDz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741250435	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741250439	Marionette	INFO	Listening on port 57842
+Read port: 57842
+WebDriver BiDi listening on ws://127.0.0.1:57813
+1679741250562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilecBTTDz\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57813/devtools/browser/3046aa21-03c5-48a0-b1f1-fd38507fd1ce
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741257812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileGRlTpy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741258111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741258114	Marionette	INFO	Listening on port 57914
+Read port: 57914
+WebDriver BiDi listening on ws://127.0.0.1:57886
+1679741258224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileGRlTpy\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57886/devtools/browser/f98be000-a777-4987-99ff-6cd26a6a6010
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741265548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileSqKa0R"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741265898	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741265903	Marionette	INFO	Listening on port 57980
+WebDriver BiDi listening on ws://127.0.0.1:57961
+Read port: 57980
+1679741266145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileSqKa0R\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57961/devtools/browser/0f2cdb8c-2b4c-4c9c-addf-fe5744692400
+1679741270532	geckodriver	INFO	Listening on 127.0.0.1:58030
+1679741273550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileDCGtEk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741273901	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741273905	Marionette	INFO	Listening on port 58050
+Read port: 58050
+WebDriver BiDi listening on ws://127.0.0.1:58031
+1679741274055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileDCGtEk\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58031/devtools/browser/9dd6d0e9-5264-45b9-80f7-e273b730d1ab
+1679741279876	geckodriver	INFO	Listening on 127.0.0.1:58100
+1679741283313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUo1m7w"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741283663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741283669	Marionette	INFO	Listening on port 58118
+Read port: 58118
+WebDriver BiDi listening on ws://127.0.0.1:58101
+1679741283826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUo1m7w\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58101/devtools/browser/39f61b5d-cd6c-4fcf-ba09-4c8d8e6f0fde
+1679741288131	geckodriver	INFO	Listening on 127.0.0.1:58162
+1679741291177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilefwgZ3c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741291538	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741291544	Marionette	INFO	Listening on port 58184
+Read port: 58184
+WebDriver BiDi listening on ws://127.0.0.1:58163
+1679741291695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilefwgZ3c\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58163/devtools/browser/09dd321e-3434-4441-9b2f-d13c9f5f8422
+console.warn: LoginRecipes: "Falling back to a synchronous m1679741299134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile3SXBdr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741299524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741299532	Marionette	INFO	Listening on port 58256
+Read port: 58256
+WebDriver BiDi listening on ws://127.0.0.1:58227
+1679741299710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile3SXBdr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58227/devtools/browser/1df78623-ee73-44b1-a269-e25f92eebddb
+1679741305448	geckodriver	INFO	Listening on 127.0.0.1:58325
+1679741308647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUGSVjg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741309322	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741309334	Marionette	INFO	Listening on port 58362
+Read port: 58362
+WebDriver BiDi listening on ws://127.0.0.1:58326
+1679741309607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileUGSVjg\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58326/devtools/browser/45c7dff7-c81b-4bcd-921d-3bb7d74f9f7f
+1679741317458	geckodriver	INFO	Listening on 127.0.0.1:58551
+1679741320709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileoKKBl1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741321106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741321112	Marionette	INFO	Listening on port 58578
+Read port: 58578
+WebDriver BiDi listening on ws://127.0.0.1:58552
+1679741321303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileoKKBl1\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58552/devtools/browser/06a8a499-320f-44c7-b0d8-3eb24555a3fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tripadvisor.com."
+1679741332747	geckodriver	INFO	Listening on 127.0.0.1:58703
+1679741336091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileyUEYQp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741336774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741336789	Marionette	INFO	Listening on port 58724
+Read port: 58724
+WebDriver BiDi listening on ws://127.0.0.1:58704
+1679741337028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofileyUEYQp\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58704/devtools/browser/f712c8db-746b-412a-bfd5-aa7eb203866b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tripadvisor.com."
+1679741346583	geckodriver	INFO	Listening on 127.0.0.1:58798
+1679741349691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5FHaAk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741350439	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741350448	Marionette	INFO	Listening on port 58833
+Read port: 58833
+WebDriver BiDi listening on ws://127.0.0.1:58799
+1679741350670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5FHaAk\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58799/devtools/browser/776c4900-8e55-44a9-9dc2-0a28049f9752
+1679741357868	geckodriver	INFO	Listening on 127.0.0.1:58917
+1679741361143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiletRGdOj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741361877	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741361888	Marionette	INFO	Listening on port 58951
+Read port: 58951
+WebDriver BiDi listening on ws://127.0.0.1:58918
+1679741362114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofiletRGdOj\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58918/devtools/browser/9769c161-b51a-446a-a03e-8930cfb28893
+1679741369293	geckodriver	INFO	Listening on 127.0.0.1:59068
+1679741372515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-p ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewKM0Br"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679741372954	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679741372959	Marionette	INFO	Listening on port 59093
+WebDriver BiDi listening on ws://127.0.0.1:59069
+Read port: 59093
+1679741373264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLLGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewKM0Br\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59069/devtools/browser/219d3cbf-1e92-4b83-84b7-b2e7effa294e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tripadvisor.com."
