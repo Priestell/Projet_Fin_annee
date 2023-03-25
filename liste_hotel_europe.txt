@@ -2198,3 +2198,11 @@ https://www.tripadvisor.com/Hotel_Review-g187309-d260631-Reviews-HOTEL_FERINGAPA
 https://www.tripadvisor.com/Hotel_Review-g187309-d7198332-Reviews-CREO_Munich_City-Munich_Upper_Bavaria_Bavaria.html
 https://www.tripadvisor.com/Hotel_Review-g187309-d232591-Reviews-Hotel_Galleria-Munich_Upper_Bavaria_Bavaria.html
 https://www.tripadvisor.com/Hotel_Review-g187309-d10042064-Reviews-PM_Rooms-Munich_Upper_Bavaria_Bavaria.html
+"""ville
+nombre de chambre
+wifi
+chambre_fumeur
+nombre etoile
+titre
+equipement
+"""
