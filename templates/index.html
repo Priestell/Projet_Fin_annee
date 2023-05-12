@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Responsive Table</title>
+  <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
+
+      <link rel="stylesheet" href="../static/style.css">
+
+  
+</head>
+
+<body>
+  <h1>Résultat</h1>
+<table class="rwd-table">
+
+  <tr>
+    <th>Nom du modèle</th>
+    <th>Prix de la nuit</th>
+    <th>MSE</th>
+    <th>MAE</th>
+      <th>R2</th>
+
+  </tr>
+    <tr>
+    <td data-th="Nom du modèle">K-NN</td>
+    <td data-th="Prix">{{ var6 }}</td>
+    <td data-th="MAE">851.23</td>
+    <td data-th="MSE">18.05</td>
+        <td data-th="R2">0.55</td>
+  </tr>
+  <tr>
+    <td data-th="Nom du modèle">Régression Polynomiale</td>
+    <td data-th="Prix">{{ var7 }}</td>
+    <td data-th="MSE">1641.1</td>
+    <td data-th="MAE">32.24</td>
+      <td data-th="R2"></td>
+  </tr>
+  <tr>
+    <td data-th="Nom du modèle">Régression Ridge</td>
+    <td data-th="Prix">{{ var2 }}</td>
+    <td data-th="MAE">1770.03</td>
+    <td data-th="MSE">33.35</td>
+      <td data-th="R2">0.11</td>
+  </tr>
+  <tr>
+    <td data-th="Nom du modèle">Régression Lasso</td>
+    <td data-th="Prix">{{ var4 }}</td>
+    <td data-th="MAE">1761.33</td>
+    <td data-th="MSE">33.24</td>
+      <td data-th="R2">0.10</td>
+  </tr>
+
+    <tr>
+    <td data-th="Nom du modèle">Random Forest Regressor</td>
+    <td data-th="Prix">{{ var1 }}</td>
+    <td data-th="MAE">1431</td>
+    <td data-th="MSE">29.78</td>
+        <td data-th="R2">0.28</td>
+  </tr>
+
+    <tr>
+    <td data-th="Nom du modèle">Decision Tree Regressor</td>
+    <td data-th="Prix">{{ var3 }}</td>
+    <td data-th="MAE">1565.35</td>
+    <td data-th="MSE">31</td>
+        <td data-th="R2">0.21</td>
+  </tr>
+
+    <tr>
+    <td data-th="Nom du modèle">Ada Boost Regressor</td>
+    <td data-th="Prix">{{ var5 }}</td>
+    <td data-th="MAE">1750.81</td>
+    <td data-th="MSE">33.89</td>
+        <td data-th="R2">0.17</td>
+  </tr>
+</table>
+
+
+</body>
+</html>

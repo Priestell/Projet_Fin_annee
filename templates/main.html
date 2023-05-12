@@ -1,0 +1,105 @@
+<header>
+    <link rel = "stylesheet" href = "../static/main.css">
+</header>
+
+<div class="container">
+  <form method="POST" action="/process-form">
+    <div class="row">
+      <h4>Estimateur de prix d'hôtel</h4>
+        <input type="text" placeholder="Nom de l'hôtel" id="nom" name="nom"/>
+        <div class="input-icon"><i class="fa fa-user"></i></div>
+              <select id="note" name="note">
+                <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+              </select>
+        <label for ="note">Note : </label>
+        <select id="Ville" name="Ville">
+                <option value="1">Amsterdam</option>
+                <option value="2">Barcelone</option>
+                <option value="3">Dublin</option>
+                <option value="4">Londres</option>
+                <option value="5">Madrid</option>
+                <option value="6">Munich</option>
+              </select>
+    </div>
+    <div class="row">
+      <div class="col-half">
+        <h4>Piscine</h4>
+        <div class="input-piscine">
+          <input id="piscine-oui" type="radio" name="piscine" value=1>
+          <label for="piscine-oui">Oui</label>
+          <input id="piscine-non" type="radio" name="piscine" value=0>
+          <label for="piscine-non">Non</label>
+        </div>
+
+          </div>
+
+
+      <div class="col-half">
+        <h4>Petit-Déjeuner</h4>
+        <div class="input-dejeuner">
+          <input id="dejeuner-oui" type="radio" name="dejeuner" value=1>
+          <label for="dejeuner-oui">Oui</label>
+          <input id="dejeuner-non" type="radio" name="dejeuner" value=0>
+          <label for="dejeuner-non">Non</label>
+        </div>
+      </div>
+</div>
+    <div class="row">
+        <div class="col-half">
+            <h4>Salle de sport</h4>
+            <div class="input-Salle">
+          <input id="Salle-oui" type="radio" name="salle" value=1>
+          <label for="Salle-oui">Oui</label>
+          <input id="Salle-non" type="radio" name="salle" value=0>
+          <label for="Salle-non">Non</label>
+        </div>
+        </div>
+
+        <div class ="col-half">
+            <h4>Wifi</h4>
+            <div class="input-wifi">
+                <input id="wifi-oui" type="radio" name="wifi" value = 1>
+                <label for="wifi-oui">Oui</label>
+                <input id="wifi-non" type="radio" name="wifi" value = 0>
+                <label for="wifi-non">Oui</label>
+            </div>
+        </div>
+</div>
+    <div class="row">
+        <div class="col-half">
+            <h4>Bar</h4>
+            <div class="input-bar">
+          <input id="bar-oui" type="radio" name="bar" value=1>
+          <label for="bar-oui">Oui</label>
+          <input id="bar-non" type="radio" name="bar" value=0>
+          <label for="bar-non">Non</label>
+        </div>
+        </div>
+
+        <div class ="col-half">
+            <h4>Restaurant</h4>
+            <div class="input-restaurant">
+                <input id="restaurant-oui" type="radio" name="restaurant" value = 1>
+                <label for="restaurant-oui">Oui</label>
+                <input id="restaurant-non" type="radio" name="restaurant" value = 0>
+                <label for="restaurant-non">Oui</label>
+            </div>
+        </div>
+</div>
+    <div class="row">
+          <h4>Parking</h4>
+          <div class ="input-parking">
+              <input id="parking-oui" type="radio" name="parking" value = 1>
+              <label for ="parking-oui">Oui</label>
+              <input id="parking-non" type="radio" name="parking" value = 0>
+              <label for ="parking-non">Non</label>
+          </div>
+      </div>
+    <input type="submit", value="Envoyer le formulaire">
+  </form>
+</div>
